@@ -1,0 +1,1 @@
+var QuestionNotFoundException = Exception(["Soru bulunamadı"]);
